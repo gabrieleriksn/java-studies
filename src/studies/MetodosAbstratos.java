@@ -11,7 +11,7 @@ public class MetodosAbstratos {
         - notação UML: Itálico.
         
         Declaração:
-        public abstract <tipo de dado do retorno> <nome do método>();        
+        public abstract <tipo de dado do retorno> <nome do método>();
         */
         
     }

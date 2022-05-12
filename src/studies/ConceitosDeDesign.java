@@ -5,10 +5,10 @@ public class ConceitosDeDesign {
         /*
         Design.
         
-        Em um sistema Orientado a Objetos, de modo geral, tudo √© objeto.
+        Em um sistema Orientado a Objetos, de modo geral, tudo s„o objeto.
         
-        Por quest√µes de design tais como organiza√ß√£o, flexibilidade, reuso,
-        delega√ß√£o, etc, h√° v√°rias categorias de classe.
+        Por questıes de design tais como organizaÁ„o, flexibilidade, reuso,
+        delegaÁ„o, etc, h· v·rias categorias de classe.
         */
     
     }

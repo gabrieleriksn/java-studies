@@ -14,7 +14,7 @@ public class UpCastingDownCasting {
 
         DownCasting:
         - Casting da Superclasse para a subclasse
-        - Palavra instancof;
+        - Palavra instanceof;
         - Uso comum: métodos que recebem parâmetros genéricos (ex: Equals).
         Como uma subclasse têm além dos dados e comportamentos genéricos métodos específicos
         pode haver problema em convertert de Superclasse para subclasse. Pra saber se a
